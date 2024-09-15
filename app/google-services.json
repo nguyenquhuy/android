@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "724546891951",
+    "project_id": "read-app-333b1",
+    "storage_bucket": "read-app-333b1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:724546891951:android:705a53b454060c3b02a45a",
+        "android_client_info": {
+          "package_name": "com.example.btl"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "724546891951-ob4c609ce0jb4d53ki6apr1v0ehv8tht.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAato3v1TyaIvKMyMmp0OlCOpHWVVluoLw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "724546891951-ob4c609ce0jb4d53ki6apr1v0ehv8tht.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
